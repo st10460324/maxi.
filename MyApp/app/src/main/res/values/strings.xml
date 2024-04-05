@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="clear">Clear</string>
+    <string name="generate_history">Generate History</string>
+    <string name="history">History</string>
+    <string name="enter_your_age">Enter Your Age :</string>
+    <string name="todo">TODO</string>
+    <string name="history1">history1</string>
+    <string name="textview">TextView</string>
+    <string name="welcome_to_my_history_app_right_here_you_will_be_able_to_navigate_the_historical_figures_at_their_age_of_death">Welcome to my history app, right here you will be able to navigate the historical figures at their age of death</string>
+    <string name="my_history_app">MY HISTORY APP</string>
+    <string name="Age">enter the age</string>
+    <string name="result" />
+</resources>
